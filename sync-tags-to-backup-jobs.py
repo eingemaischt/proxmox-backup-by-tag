@@ -20,8 +20,8 @@ proxmox = ProxmoxAPI(
 
 
 pairs = [
-    ('daily', 'backup-3b41bbf7-aed6'),
-    ('weekly', 'backup-cb65d2cb-27ee'),
+    ('daily', 'backup-3b78cbf7-1234'),
+    ('weekly', 'backup-cb98d2cc-5678'),
 ]
 
 
